@@ -1,6 +1,6 @@
 ## 说明
 
-Code Template
+TypeScript Starter
 
 ## 功能
 
