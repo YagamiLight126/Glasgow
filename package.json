@@ -1,7 +1,7 @@
 {
   "name": "glasgow",
   "version": "1.0.0",
-  "description": "code template",
+  "description": "Typescript Starter",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/YagamiLight126/Glasgow.git"
